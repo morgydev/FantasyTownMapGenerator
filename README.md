@@ -20,6 +20,6 @@ After this, we can colour in the regions. I went about this by iterating over ea
 
 <img src='./assign_regions.png' width=70%>
 
-Rendering this out gives us a Voronoi diagram.
+Rendering this out gives us a Voronoi diagram (rendered to 1600x1000 for visual niceness).
 
-<img src='./voronoi.png' width=80%>
+<img src='./voronoi_high_quality.png' width=80%>
